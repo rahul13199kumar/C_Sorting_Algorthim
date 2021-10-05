@@ -10,3 +10,18 @@ Add More C/C++ Algorthim (Recommended for beginners)
 Hey Guys You do PR on Different types of Sorting Algorithm in python , So you can successfully participated in Hacktoberfest 2021
 
 
+
+
+ # Oh, Thanks!
+ 
+ 
+Thank you for being here! 
+
+
+
+
+
+![Untitled](https://user-images.githubusercontent.com/55308841/135988192-6fa838aa-5889-46ea-badc-50e98af504ff.png)
+
+
+
